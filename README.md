@@ -1,4 +1,4 @@
-Ekran Resmi 2022-06-03 23.16.04.png
+
 # ListApp
 
 I make this app for saving the infos that I need to. 
